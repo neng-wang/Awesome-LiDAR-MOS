@@ -80,7 +80,6 @@ Statistics:       :fire: code is available & stars >= 100 &emsp;|&emsp; :star: c
 ### 2024
 
 - [[ICRA](https://arxiv.org/abs/2401.17023)]MF-MOS: A Motion-Focused Model for Moving Object Segmentation.[[code](https://github.com/SCNU-RISLAB/MF-MOS)]![Github stars](https://img.shields.io/github/stars/SCNU-RISLAB/MF-MOS.svg)[__`out.`__ __`pc.`__]
-- [[Arxiv](https://arxiv.org/abs/2404.12794)]MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model.[[code](https://github.com/Terminal-K/MambaMOS)]![Github stars](https://img.shields.io/github/stars/Terminal-K/MambaMOS.svg)[**`out.`** **`pc.`**]
 - [[Arxiv](https://arxiv.org/abs/2402.14380)]RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation.[[code](https://github.com/ORCA-Uboat/RadarMOSEVE)]![Github stars](https://img.shields.io/github/stars/ORCA-Uboat/RadarMOSEVE.svg)[__`out.`__ __`rad.`__]
 - [[Arxiv](https://arxiv.org/abs/2406.16279)]SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments.[[code](https://github.com/nubot-nudt/SegNet4D)]![Github stars](https://img.shields.io/github/stars/nubot-nudt/SegNet4D.svg)[**`out.`** **`pc.`**]
 
