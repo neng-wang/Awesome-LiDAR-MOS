@@ -53,7 +53,9 @@ This leaderboard features only open-source methods, allowing quick result reprod
 | [MambaMOS](#mambamos)       |    82.3    |    80.1     |
 | [4D-CS](#4dcs)              |    80.9    |    83.5     |
 
-- **Apollo ** (all methods trained on the semanticKITTI and evaluated on the Apollo dataset)
+- **Apollo **  
+
+All methods trained on the semanticKITTI and evaluated on the Apollo dataset
 
 | Method                      |  Fine-tune   | IoU[%] |
 | --------------------------- | :----------: | ------ |
