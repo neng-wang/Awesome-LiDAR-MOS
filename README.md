@@ -3,7 +3,11 @@ For anyone who wants to do research about 3D point cloud **Moving Object Segment
 
 *Continuously updating!*
 
+<div align="center">
+
 ![mos](./pic/mos.gif)
+
+</div>
 
 ## Benchmark
 
@@ -11,7 +15,7 @@ For anyone who wants to do research about 3D point cloud **Moving Object Segment
 
 | [SemanticKITTI](https://codalab.lisn.upsaclay.fr/competitions/708) | [MOE](https://codalab.lisn.upsaclay.fr/competitions/18028) |
 | :----------------------------------------------------------: | :--------------------------------------------------------: |
-| <img src="./pic/semantickitti.png" width="150" height="120"> |     <img src="./pic/moe.png" width="140" height="120">     |
+| <img src="./pic/semantickitti.png" width="240" height="220"> |     <img src="./pic/moe.png" width="240" height="220">     |
 
 </div>
 
