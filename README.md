@@ -36,7 +36,6 @@ This leaderboard features only open-source methods, allowing quick result reprod
 
 - **SemanticKITTI**
 
-<div align="center">
 
 | Method                      | Val IoU[%] | Test IoU[%] |
 | --------------------------- | :--------: | :---------: |
@@ -54,11 +53,8 @@ This leaderboard features only open-source methods, allowing quick result reprod
 | [MambaMOS](#mambamos)       |    82.3    |    80.1     |
 | [4D-CS](#4dcs)              |    80.9    |    83.5     |
 
-</div>
-
 - **Apollo ** (all methods trained on the semanticKITTI and evaluated on the Apollo dataset)
 
-<div align="center">
 | Method                      |  Fine-tune   | IoU[%] |
 | --------------------------- | :----------: | ------ |
 | [MotionBEV](#motionbev)     | **&#10003;** | 61.4   |
@@ -69,8 +65,6 @@ This leaderboard features only open-source methods, allowing quick result reprod
 | [CV-MOS](#cvmos)            | **&#10003;** | 75.8   |
 | [InsMOS](#insmos)           |              | 78.0   |
 | [MapMOS](#mapmos)           |              | 81.2   |
-
-</div>
 
 ## Papers
 
