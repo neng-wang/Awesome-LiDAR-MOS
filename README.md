@@ -42,7 +42,7 @@ This leaderboard features only open-source methods, allowing quick result reprod
 | [Auto-MOS](#auto-mos)       |     -      |    62.3     |
 | [LMNet](#lmnet)             |    67.1    |    62.5     |
 | [4DMOS](#4dmos)             |    71.9    |    65.2     |
-| [MapMOS](#mapmos)           |    86.1    |    66.0     |
+| [MapMOS](#mapmos)           |  **86.1**  |    66.0     |
 | [MotionSeg3D](#motionseg3d) |    68.1    |    70.2     |
 | [SFEMOS](#sfemos)           |     -      |    71.2     |
 | [AWV-MOS-LIO](#awv-mos-lio) |    70.0    |      -      |
@@ -51,22 +51,22 @@ This leaderboard features only open-source methods, allowing quick result reprod
 | [MF-MOS](#mfmos)            |    76.1    |    76.7     |
 | [CV-MOS](#cvmos)            |    77.5    |    79.2     |
 | [MambaMOS](#mambamos)       |    82.3    |    80.1     |
-| [4D-CS](#4dcs)              |    80.9    |    83.5     |
+| [4D-CS](#4dcs)              |    80.9    |  **83.5**   |
 
 - **Apollo** 
 
 All methods trained on the semanticKITTI and evaluated on the Apollo dataset
 
-| Method                      |  Fine-tune   | IoU[%] |
-| --------------------------- | :----------: | ------ |
-| [MotionBEV](#motionbev)     | **&#10003;** | 61.4   |
-| [LMNet](#lmnet)             | **&#10003;** | 65.9   |
-| [MF-MOS](#mfmos)            | **&#10003;** | 70.7   |
-| [MotionSeg3D](#motionseg3d) | **&#10003;** | 72.3   |
-| [4DMOS](#4dmos)             |              | 73.1   |
-| [CV-MOS](#cvmos)            | **&#10003;** | 75.8   |
-| [InsMOS](#insmos)           |              | 78.0   |
-| [MapMOS](#mapmos)           |              | 81.2   |
+| Method                      |  Fine-tune   | IoU[%]   |
+| --------------------------- | :----------: | -------- |
+| [MotionBEV](#motionbev)     | **&#10003;** | 61.4     |
+| [LMNet](#lmnet)             | **&#10003;** | 65.9     |
+| [MF-MOS](#mfmos)            | **&#10003;** | 70.7     |
+| [MotionSeg3D](#motionseg3d) | **&#10003;** | 72.3     |
+| [4DMOS](#4dmos)             |              | 73.1     |
+| [CV-MOS](#cvmos)            | **&#10003;** | 75.8     |
+| [InsMOS](#insmos)           |              | 78.0     |
+| [MapMOS](#mapmos)           |              | **81.2** |
 
 ## Papers
 
